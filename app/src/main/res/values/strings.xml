@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Initiative tracker</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="characterlist">Character List</string>
+    <string name="initiativecounter">Initiative Counter</string>
+    <string name="bought" />
+    <string name="picked">Picked</string>
+
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="class_">Class</string>
+    <string name="HP">HP</string>
+    <string name="AC">AC</string>
+    <string name="INIT">Init</string>
+    <string name="estimated_price">Estimated Price</string>
+    <string name="already_purchased">Already purchased</string>
+    <string name="new_character">New Character</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="order_confirmation" />
+    <string name="my_msg" />
+
+    <string-array name="class_items">
+        <item>ARTIFICER</item>
+        <item>BARBARIAN</item>
+        <item>BARD</item>
+        <item>CLERIC</item>
+        <item>DRUID</item>
+        <item>FIGHTER</item>
+        <item>MONK</item>
+        <item>PALADIN</item>
+        <item>RANGER</item>
+        <item>ROGUE</item>
+        <item>SORCERER</item>
+        <item>WARLOCK</item>
+        <item>WIZARD</item>
+    </string-array>
+</resources>
