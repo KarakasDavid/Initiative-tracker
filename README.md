@@ -5,9 +5,7 @@ Információk [itt](https://viauac00.github.io/laborok/hf)
 ## Mobil- és webes szoftverek
 ### 2022.10.23
 ### Initiative tracker
-### Karakas Dávid - (PT8YWJ)
-### karakasdavid2001@gmail.com 
-### Laborvezető: Kapitány Erik
+### Karakas Dávid 
 
 ## Bemutatás
 
